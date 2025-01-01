@@ -1,0 +1,9 @@
+jupyterlab>3.0
+transformers>4.0
+torch>2.4
+python-dotenv>0.15
+accelerate>=0.26.0
+Flask>3.0
+pandas>1.0
+Flask_Cors>=5.0
+PyPDF
